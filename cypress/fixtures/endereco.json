@@ -1,0 +1,42 @@
+[
+    {
+        "nome": "ana",
+        "sobrenome":"lucia",
+        "empresa":"EBAC",
+        "endereco":"av. paulista",
+        "numero":"200",
+        "pais": "Brasil",
+        "cidade": "sao paulo",
+        "cep":"75513444",
+        "telefone":"93322444",
+        "email":"teste@teste.com"
+    },
+    {
+        "nome": "Joaquim",
+        "sobrenome":"guerra",
+        "empresa":"EBAC",
+        "endereco":"av. paulista",
+        "numero":"209",
+        "pais": "Brasil",
+        "cidade": "Sao Paulo",
+        "estado":"Sao Paulo",
+        "cep":"75513455",
+        "telefone":"93322444",
+        "email":"teste@teste.com"
+
+
+    },
+    {
+        "nome": "maria",
+        "sobrenome":"costa",
+        "empresa":"EBAC",
+        "endereco":"av. paulista",
+        "numero":"220",
+        "pais": "Brasil",
+        "cidade": "sao paulo",
+        "cep":"75513444",
+        "telefone":"93322444",
+        "email":"teste@teste.com"
+
+    }
+]
