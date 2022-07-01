@@ -18,6 +18,7 @@ describe('funcionalidade Endereços - Faturamento e Entrega', () => {
 
 
     it('Deve fazer um pedido na loja Ebac Shop de ponta a ponta', () => {
+        
         cy.addproduto('Aether Gym Pant', '34', 'Green', '1')
         cy.addproduto('Orestes Yoga Pant', '32', 'Blue', '1')
         cy.addproduto('Aether Gym Pant', '33', 'Blue', '1')
